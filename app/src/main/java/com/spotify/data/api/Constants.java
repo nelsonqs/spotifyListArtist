@@ -20,8 +20,8 @@ import static com.spotify.data.api.Constants.Params.ARTIST_ID;
 
 public class Constants {
 
-  public static final String SPOTIFY_API = "https://api.spotify.com";
   public static final String API_KEY = "Authorization";
+  public static final String SPOTIFY_API = "https://api.spotify.com";
 
   //This access token shouldn't be exposed, use it like a professional developer
   public static final String ACCESS_TOKEN = "Bearer BQDFmV_S6nZDvQL1f9mksL1MZ61-MLudHhAgXrSCtC29oGAR6cVKIzjhi0sZuw5L1CGNYmxbPQH1yQilmCL_0Zhi6yz_n6bYXPahf5flySlYEwcPnpESwUei7OQUC6pDINAzmYNxle6-NLNwVLLJUSugONak4r1DAw";
